@@ -1,0 +1,13 @@
+{
+  "name": "spec_helper",
+  "description": "Configure mocka, mocka_as_promised, chai, chai_as_promised and wd.",
+  "version": "0.0.1",
+  "private": "true",
+  "peerDependencies": {
+    "mocha": "1.x",
+    "mocha-as-promised": "1.x",
+    "chai": "1.x",
+    "chai-as-promised": "4.x",
+    "wd": "0.x"
+  }
+}
