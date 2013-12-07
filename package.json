@@ -3,7 +3,7 @@
   "description": "Configure mocka, mocka_as_promised, chai, chai_as_promised and wd.",
   "version": "0.0.1",
   "private": "true",
-  "Dependencies": {
+  "dependencies": {
     "mocha-as-promised": "1.x",
     "chai-as-promised": "4.x"
   },
